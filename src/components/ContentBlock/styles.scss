@@ -1,0 +1,16 @@
+.contentBlock{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    .emptyContent{
+        margin-top: 72px;
+        p{
+            font-family: 'Roboto';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 28px;
+            line-height: 33px;
+            color: #000000;
+        }
+    }
+}
